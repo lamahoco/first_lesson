@@ -1,5 +1,5 @@
-hello world
+привет мир
 
-my name is misha
+меня зовут Миша
 
-i am 10 years old
+мне 10 лет
